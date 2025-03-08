@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fernle.dev@gmail.com**
 
-- ⚡ Fun fact **I love action RPGs and MMMORPGs**
+- ⚡ Fun fact **I love action RPGs and MMORPGs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
