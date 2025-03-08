@@ -1,27 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ahmet Emir</h1>
-<h3 align="center">A passionate Unity developer from Turkiye</h3>
+# 💫 About Me:
+🔭 I am a fourth year student of Digital Game Design at Bilgi University. <br><br>🌱 I’m currently learning clean coding<br><br>⚡ Fun fact I love action RPGs and MMORPGs<br><br>👨‍💻 All of my projects are available at my website<br>➡️➡️➡️ https://www.fernle.dev/
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernle&label=Profile%20views&color=0e75b6&style=flat" alt="fernle" /> </p>
 
-- 🌱 I’m currently learning **clean coding**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmet-emir-%C3%B6zdemir/?trk=public-profile-join-page) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fernle.dev@gmail.com) 
 
-- 👨‍💻 All of my projects are available at **my website**
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Fernle&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Fernle&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernle&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- ➡️➡️➡️ [https://www.fernle.dev/](https://www.fernle.dev/)
+---
+[![](https://visitcount.itsvg.in/api?id=Fernle&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 📫 How to reach me **fernle.dev@gmail.com**
-
-- ⚡ Fun fact **I love action RPGs and MMORPGs**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmet-emir-%c3%b6zdemir/?trk=public-profile-join-page" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmet-emir-%c3%b6zdemir/?trk=public-profile-join-page" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernle&show_icons=true&locale=en&layout=compact" alt="fernle" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernle&" alt="fernle" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
