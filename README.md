@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **clean coding**
 
-- 👨‍💻 All of my projects are available at [my website](my website)
+- 👨‍💻 All of my projects are available at **my website**
 
 - ➡️➡️➡️ [https://www.fernle.dev/](https://www.fernle.dev/)
 
