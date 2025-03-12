@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a fourth year student of Digital Game Design at Bilgi University. <br><br>🌱 I’m currently learning clean coding<br><br>⚡ Fun fact I love action RPGs and MMORPGs<br><br>👨‍💻 All of my projects are available at my website<br>➡️➡️➡️ https://www.fernle.dev/
+🔭 I am a fourth year student of Digital Game Design at Bilgi University. <br><br>🌱 I’m currently learning clean coding<br><br>⚡ Fun fact I love action RPGs and MMORPGs<br><br>👨‍💻 All of my projects are available at my website<br>➡️➡️➡️ [https://www.fernle.dev/](https://fernle.dev)
 
 
 ## 🌐 Socials:
